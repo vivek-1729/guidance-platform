@@ -1,0 +1,1 @@
+web: gunicorn guidance_platform.wsgi --log-file -
